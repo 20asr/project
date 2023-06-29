@@ -4,4 +4,8 @@ channels:
   - defaults
 dependencies:
   - ipykernel
+  - scikit-learn=1.2.1
+  - python
+  - pandas
+  - matplotlib.pyplot
 prefix: C:\Users\Ajay\miniconda3\envs\dstoolbox
